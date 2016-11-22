@@ -1,2 +1,1 @@
-# quotations
-"Array of Quotations"
+# Сборник цитат лучших студентов КБТУ - "arrayOfQuotations"
